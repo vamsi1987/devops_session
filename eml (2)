@@ -1,0 +1,212 @@
+Received: from mx.yash.com (10.6.16.17) by mail.yash.com (10.6.16.8) with
+ Microsoft SMTP Server id 14.3.352.0; Mon, 29 Jan 2018 11:00:40 +0530
+X-ASG-Debug-ID: 1517208264-067b1653e81ed730001-Lh3be8
+Received: from APC01-SG2-obe.outbound.protection.outlook.com
+ (mail-oln040092253029.outbound.protection.outlook.com [40.92.253.29]) by
+ mx.yash.com with ESMTP id 8msTUK5OE5z4H0iK (version=TLSv1.2
+ cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NO); Mon, 29 Jan 2018 12:14:25
+ +0530 (IST)
+X-Barracuda-Envelope-From: kvamsikrishna1987@outlook.com
+X-ASG-Whitelist: Sender
+X-Barracuda-Apparent-Source-IP: 40.92.253.29
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=QBtgRYMTzZU8KNthN9Faw5QCxtXYWrbIFSnTm63jr5I=;
+ b=N63TaJLpcvBuaZSu7skDdKEhUnKNQUnw0XYFb0bryINqi9raZIYtqyTeaG9qxVIBr8HQY1979XRp25XcRcpA4LnMZoI/RN7h366hAGZFj1JwlVJaa9/DjYTF4JvOg2o9i6C2lQv7z8vpgc0sq3mpFBoTFBbNgEJuAx060Uir0ctj1m8aZRqjK5nwnCCx1F7wLZVjc+SG4ZV0A2BvCKmomCh2AlnomIqYPO0lgfADpqPJ4iOhg7PNtFlYws0z6WqEEJlRMJe65bqskXgbP6Hg6zGBGUD2YsziO6faxVSHIpy5DT0xJVZrk+MhpdQq3YPa4CDi/EnnM+86e8ogp4DWSw==
+Received: from SG2APC01FT003.eop-APC01.prod.protection.outlook.com
+ (10.152.250.51) by SG2APC01HT232.eop-APC01.prod.protection.outlook.com
+ (10.152.251.101) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.20.444.13; Mon, 29
+ Jan 2018 05:30:35 +0000
+Received: from MAXPR01MB0457.INDPRD01.PROD.OUTLOOK.COM (10.152.250.52) by
+ SG2APC01FT003.mail.protection.outlook.com (10.152.250.130) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.444.13 via
+ Frontend Transport; Mon, 29 Jan 2018 05:30:36 +0000
+Received: from MAXPR01MB0457.INDPRD01.PROD.OUTLOOK.COM ([10.164.151.22]) by
+ MAXPR01MB0457.INDPRD01.PROD.OUTLOOK.COM ([10.164.151.22]) with mapi id
+ 15.20.0444.016; Mon, 29 Jan 2018 05:30:35 +0000
+From: vamsi k <kvamsikrishna1987@outlook.com>
+To: YASH HRIS-Infogram <HRIS.notifications@yash.com>
+CC: Sanjay <sanjay.kakulavaram@yash.com>, Murali <murali.bethireddy@yash.com>,
+	"abhishek.singh@yash.com" <abhishek.singh@yash.com>, "amreshm@yash.com"
+	<amreshm@yash.com>, "tac.onboarding@yash.com" <tac.onboarding@yash.com>,
+	Amrutha Nuvvula <amrutha.nuvvula@yash.com>
+Subject: Re: Offer Letter: YASH Technologies
+Thread-Topic: Offer Letter: YASH Technologies
+X-ASG-Orig-Subj: Re: Offer Letter: YASH Technologies
+Thread-Index: AQHTlQwqL81psxzPkkyUpGzba7dYIqOKWBAL
+Date: Mon, 29 Jan 2018 05:30:35 +0000
+Message-ID: <MAXPR01MB0457BF14592EB635C262B870B4E50@MAXPR01MB0457.INDPRD01.PROD.OUTLOOK.COM>
+References: <760661002.13675.1516795267617.JavaMail.sfuser@pc10bcf08t.successfactors.com>
+In-Reply-To: <760661002.13675.1516795267617.JavaMail.sfuser@pc10bcf08t.successfactors.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:09A016FB543FE5763C5809C7FCE62D1E3F7A936005440FF84F3B4015AD4F40B2;UpperCasedChecksum:DE3B87F3FA2B18A5813C5049B7DD654ED3CB43ACC7B4475FD7E1194EE6082AAF;SizeAsReceived:7269;Count:46
+x-tmn: [OjBaHoxEAIuQm9OvC5cI/H5RX8QDLM54]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SG2APC01HT232;6:1xhoCJ0TN51axp7lrNYBdrRp/LtsLFX6P1OmaLaJ2yQSZW8E6elGXxmpJqgjPSbhk949nqkaZ7HEIp0xnJZJeJP1o4vbk5+EUlFBhOyBs+KWGqi9FJzlAh3SIJVOkKHfFwj5GT7DtC9lOcR0V6s90OWRbcHsj8jAocV0UOknQ/mGSUkqV7/ImzuCyPfHiTHHt9QhY8yBCcSdzvKd429Er4p4hfVXGdnd95RSb5hTOVPkPNZpjAIKjJMQHpRVv4sR1KcNF6t6XqgdGh4kOWIcNs51p5E0At5H3/l/iB0QMd8TXQRZf50iPJWhdTKcG29oD4kZcz8tMJaEe7qFmp3af4FuVvisIPfh2vOg0N7e+fs=;5:K+bBKnYMv9Kw68DEQUdof/7IKBXgxsHg2SIlflynQPCXSo98ZZURwbJMMIVyVSnEfrsvd62u0vw8/ZV4ibpqqYaoaOtT6XS7Eoe/aso8tIem73MF7kNg6aAOZMOZMQ+fH44Tqzr0uoXKJ/53ccm1tsbvFkjJy0l9KmUhPTaFRxI=;24:plw0zqTC3h50ON3+qL4JdfzNtBIYuRUZ90oaLC6R0a5Gr/S0QYwA/5Xb1o0cGUZ5x7/NIppMypQ5EENIDeCBZo6Z+OWkCoVsrmlFd0i05Ck=;7:MK8bk7RJ2cVGbDIamWZ3DaGnzFv6ibK8tM5x7SriOfVQHHo5aCFiO/AAtRdydpRzcp+vDtp1MSw3063N8qJB5Amqk60J1o6yfnji7VSve0t4DFrD1/GuFhhamPNmzPS7u0i3lI/djQDSUGax0ELEGIOgI9hl4RzVeKl2YEyjSYyRFBbGw/4AV+/ctd0iFk1Zk1ZRsfZQY75YqjUYK9PWpM3tCBK6ulgsrU77cQGyyE4LbYkgTL3kZ3Bz5rbefxDX
+x-incomingheadercount: 46
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:SG2APC01HT232;
+x-ms-traffictypediagnostic: SG2APC01HT232:
+x-ms-office365-filtering-correlation-id: d1b522eb-0c35-4c2d-93c8-08d566d96c95
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:SG2APC01HT232;BCL:0;PCL:0;RULEID:;SRVR:SG2APC01HT232;
+x-forefront-prvs: 0567A15835
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SG2APC01HT232;H:MAXPR01MB0457.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MAXPR01MB0457BF14592EB635C262B870B4E50MAXPR01MB0457INDP_"
+X-MS-Exchange-CrossTenant-Network-Message-Id: d1b522eb-0c35-4c2d-93c8-08d566d96c95
+X-MS-Exchange-CrossTenant-originalarrivaltime: 29 Jan 2018 05:30:35.5502
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT232
+X-Barracuda-Connect: mail-oln040092253029.outbound.protection.outlook.com[40.92.253.29]
+X-Barracuda-Start-Time: 1517208265
+X-Barracuda-Encrypted: ECDHE-RSA-AES256-SHA384
+X-Barracuda-URL: https://nospam.yash.com:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at yash.com
+X-Barracuda-BRTS-Status: 1
+Return-Path: kvamsikrishna1987@outlook.com
+MIME-Version: 1.0
+
+--_000_MAXPR01MB0457BF14592EB635C262B870B4E50MAXPR01MB0457INDP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi All,
+
+Sorry for the late reply.
+Due to viral fever and cold, I am unable to join today and I will be joinin=
+g tomorrow without fail.
+
+Please let me know if you have any queries.
+
+Regards,
+Vamsi.
+
+Sent from Outlook<http://aka.ms/weboutlook>
+________________________________
+From: YASH HRIS-Infogram <HRIS.notifications@yash.com>
+Sent: Wednesday, January 24, 2018 6:01 AM
+To: Vamsi Karnati
+Cc: Sanjay; Murali; abhishek.singh@yash.com; amreshm@yash.com; tac.onboardi=
+ng@yash.com; yashoffers.in@yash.com
+Subject: Offer Letter: YASH Technologies
+
+
+Dear Vamsi,
+
+Congratulations and welcome to the YASH family!
+
+Thank you for your interest in our organization & subsequent interview (s) =
+with us, we are delighted to extend an offer of employment to you.
+
+Enclosed, kindly find softcopy of Offer Letter, Annexure I, II & III for yo=
+ur quick reference.
+
+We look forward to have you by the date mentioned in the Offer Letter. Plea=
+se send your acceptance within five days from receiving this e-mail.
+
+Let us together have a long and rewarding journey. Should you have any quer=
+ies, please feel free to reach us.
+
+Do remember to bring a print out of this offer letter on the day of your jo=
+ining.
+
+
+
+Regards
+
+Team HR
+
+--_000_MAXPR01MB0457BF14592EB635C262B870B4E50MAXPR01MB0457INDP_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+Hi All,</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+Sorry for the late reply.</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+Due to viral fever and cold, I am unable to join today and I will be joinin=
+g tomorrow without fail.</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+Please let me know if you have any queries.</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+Regards,</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0);">
+Vamsi.</div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt; color:#000000; ba=
+ckground-color:#FFFFFF; font-family:Calibri,Arial,Helvetica,sans-serif">
+Sent from <a href=3D"http://aka.ms/weboutlook">Outlook</a></div>
+</div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> YASH HRIS-Infogram &l=
+t;HRIS.notifications@yash.com&gt;<br>
+<b>Sent:</b> Wednesday, January 24, 2018 6:01 AM<br>
+<b>To:</b> Vamsi Karnati<br>
+<b>Cc:</b> Sanjay; Murali; abhishek.singh@yash.com; amreshm@yash.com; tac.o=
+nboarding@yash.com; yashoffers.in@yash.com<br>
+<b>Subject:</b> Offer Letter: YASH Technologies</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<p>Dear <strong>Vamsi</strong>,</p>
+<p><strong>Congratulations and welcome to the YASH family!</strong></p>
+<p>Thank you for your interest in our organization &amp; subsequent intervi=
+ew (s) with us,
+<strong>we are delighted to extend an offer of employment to you.</strong><=
+/p>
+<p>Enclosed, kindly find softcopy of Offer Letter, Annexure I, II &amp; III=
+ for your quick reference.</p>
+<p>We look forward to have you by the date mentioned in the Offer Letter. P=
+lease send your acceptance within five days from receiving this e-mail.</p>
+<p>Let us together have a long and rewarding journey. Should you have any q=
+ueries, please feel free to reach us.</p>
+<p><strong>Do remember to bring a print out of this offer letter on the day=
+ of your joining.</strong></p>
+<p>&nbsp;</p>
+<p><strong>Regards</strong></p>
+<p><strong>Team HR</strong></p>
+</div>
+</body>
+</html>
+
+--_000_MAXPR01MB0457BF14592EB635C262B870B4E50MAXPR01MB0457INDP_--
